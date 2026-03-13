@@ -1,0 +1,64 @@
+# Python
+venv/
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# VS Code
+.vscode/
+
+# Jupyter Notebooks
+*.ipynb_checkpoints
+
+# Environment
+env/
+.env
+.env.*
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Logs
+*.log
+
+# Data
+/data/
+
+# Embeddings
+/embeddings/
+
+# Vector DB
+/vectordb/
+
+# Misc
+*.swp
+*.bak
+*.tmp
+ 
+# ChromaDB store
+.chroma_store/
+
+# SQLite files
+*.sqlite3
+
+# Test outputs
+test_outputs/
+
+# Coverage reports
+htmlcov/
+.coverage
+
+# Build artifacts
+build/
+dist/
+*.egg-info/
+
+# PDF files
+*.pdf
+
+# gitkeep files
+*.gitkeep
+
+
